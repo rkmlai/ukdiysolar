@@ -42,6 +42,8 @@ This Guide is written for projects within the scope of EREC G99 Types B—D, ie 
 
 ### Application Forms
 
+[All G99 forms](https://www.energynetworks.org/assets/images/G99_Amd%209(Oct%2022)_Forms.zip)
+
 #### G99 SGI-1
 
 This process allow the generator to process installation and then submit notification using Form A3-3 (Annex A.1) if conditions in section 6.2.2.2 are met, mainly the Aggregate of Registered Capacities do not exceed 16A.
